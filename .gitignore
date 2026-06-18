@@ -1,0 +1,29 @@
+# Environment
+.env
+
+# Virtual environment
+venv/
+FinSight/
+env/
+
+# FAISS index (auto-generated, no need to commit)
+faiss_index/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Benchmark results (optional — you may want to commit these)
+# benchmark_results.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
