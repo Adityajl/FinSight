@@ -22,6 +22,8 @@ The confidence gating system is adapted from [CLARA](https://github.com/your-use
 
 ---
 
+![FinSight Demo](demo.png)
+
 ## Architecture
 
 ```
